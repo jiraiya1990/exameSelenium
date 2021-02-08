@@ -1,0 +1,9 @@
+<suite name="Clase 12">
+    <test name="Ejercicios Testng">
+        <parameter name ="tagname" value ="a"></parameter>
+
+        <classes>
+            <class name="Examen.prueba_netflix"></class>
+        </classes>
+    </test>
+</suite>
